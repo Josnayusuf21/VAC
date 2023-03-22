@@ -93,11 +93,9 @@ ggplot(Titanic, aes(x = age, fill = survived)) + theme_bw() +
 
 
 
-
-
-
-
-
-
-
-#Aniket_RA2011026020074
+##JosnaYusuf RA2011026020074
+##JosnaYusuf RA2011026020074
+##JosnaYusuf RA2011026020074
+##JosnaYusuf RA2011026020074
+##JosnaYusuf RA2011026020074
+##JosnaYusuf RA2011026020074
